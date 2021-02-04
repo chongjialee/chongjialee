@@ -2,8 +2,10 @@
 
 <p align="center">
     <img src="./assets/code.gif">
+</p>
+<p>
     <img src="https://badge.tcblabs.net/api/hc/jfz/badge?IconBackgroundColorCode=%2374257A&TextBackgroundColorCode=%23FF5000">
-</div>
+</p>
 
 <!--
 **chongjialee/chongjialee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
