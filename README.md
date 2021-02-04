@@ -1,6 +1,6 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-<div align="center">
+<p align="center">
     <img src="https://badge.tcblabs.net/api/hc/jfz/badge?IconBackgroundColorCode=%2374257A&TextBackgroundColorCode=%23FF5000">
 </div>
 
