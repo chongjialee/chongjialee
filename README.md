@@ -1,6 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
+    <img src="./assets/code.gif">
     <img src="https://badge.tcblabs.net/api/hc/jfz/badge?IconBackgroundColorCode=%2374257A&TextBackgroundColorCode=%23FF5000">
 </div>
 
