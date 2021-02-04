@@ -1,11 +1,11 @@
-<h3 align="center"> Hi there 👋</h3>
-
 <p align="center">
     <img src="./assets/code.gif">
 </p>
-<p>
+<p align="center">
     <img src="https://badge.tcblabs.net/api/hc/jfz/badge?IconBackgroundColorCode=%2374257A&TextBackgroundColorCode=%23FF5000">
 </p>
+
+<h3 align="center"> Hi there 👋</h3>
 
 <!--
 **chongjialee/chongjialee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
